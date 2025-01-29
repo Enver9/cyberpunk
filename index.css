@@ -1,0 +1,172 @@
+body {
+    margin: 0px;
+    font-family: 'space grotesk', serif;
+}
+
+section {
+    position: relative;
+}
+
+.cyberpunk {
+    width: 1903px;
+    height: 1000px;
+}
+
+header {
+    position: absolute;
+    width: 1280px;
+    height: 74px;
+    top: 20px;
+    left: 320px;
+}
+
+.navphoto1 {
+    width: 89px;
+    height: 10px;
+    position: absolute;
+    top: 55px;
+    left: 173px;
+}
+
+.navphoto2 {
+    width: 295px;
+    height: 73px;
+}
+
+.navphoto3 {
+    width: 379px;
+    height: 30px;
+    position: absolute;
+    top: 23px;
+    left: 900px;
+}
+
+.section1 {
+    width: 624px;
+    height: 369px;
+    position: absolute;
+    top: 631px;
+    left: 976px;
+}
+
+section div p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 62px;
+    font-weight: 800;
+    position: absolute;
+    bottom: 150px;
+    margin: 0px 32px;
+}
+
+.althiss3 {
+    position: absolute;
+    left: 35px;
+    top: 250px;
+}
+
+.mid {
+    height: 450px;
+    width: 1900px;
+}
+
+.mid5 {
+    height: 600px;
+    width: 1900px;
+}
+
+section .mid p:nth-child(1) {
+    width: 1200px;
+    height: 63px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 72px;
+    font-weight: 800;
+    position: absolute;
+    left: 160px;
+    top: 1050px;
+}
+
+section .mid p:nth-last-child(1) {
+    width: 1200px;
+    height: 125px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 23px;
+    position: absolute;
+    top: 1210px;
+    left: 165px;
+    color: gray;
+    line-height: 34px;
+}
+
+.mid1 {
+    position: absolute;
+    left: 198px;
+}
+
+.mid2 {
+    position: absolute;
+    left: 198px;
+    padding-top: 230px;
+}
+
+.mid3 {
+    position: absolute;
+    left: 700px;
+}
+
+.mid6 {
+    position: absolute;
+    top: 1950px;
+}
+
+.mid7 {
+    position: absolute;
+    top: 2020px;
+    z-index: auto;
+    pointer-events: none
+}
+
+.mid8 {
+    position: absolute;
+    left: 198px;
+}
+
+
+.midp1 {
+    position: relative;
+    color: white;
+    left: 350px;
+    top: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: 400;
+    font-size: 65px;
+}
+
+.midp2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    position: relative;
+    font-weight: 700;
+    font-size: 20px;
+    left: 180px;
+    top: 120px;
+    line-height: 35px;
+    width: 1020px;
+    height: 95px;
+
+}
+
+.clr {
+    color: #445fbffa;
+}
+
+input {
+    color: white;
+    border-color: red;
+    z-index: auto;
+}
+
+label {
+    z-index: auto;
+    color: white;
+}
